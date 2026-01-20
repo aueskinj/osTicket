@@ -18,3 +18,19 @@ Structure
 Notes
 -----
 - After a successful install, removing setup/ from production deployments is recommended for security.
+
+Directory Index
+---------------
+- cli/ – CLI utilities: see cli/README.md
+- css/ – installer styles: see css/README.md
+- doc/ – developer docs: see doc/README.md
+	- api/: see doc/api/README.md
+- images/ – installer images: see images/README.md
+	- icons/: see images/icons/README.md
+- inc/ – installer helpers: see inc/README.md
+	- streams/: see inc/streams/README.md
+		- core/: see inc/streams/core/README.md
+- js/ – installer scripts: see js/README.md
+- scripts/ – setup automation scripts: see scripts/README.md
+- test/ – installer/upgrader tests: see test/README.md
+	- tests/: see test/tests/README.md
