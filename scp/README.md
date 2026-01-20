@@ -15,3 +15,11 @@ Structure
 Notes
 -----
 - Staff controllers rely on shared models/services in include/class.*; staff templates live in include/staff/.
+
+Directory Index
+---------------
+- apps/ – dispatcher: see apps/README.md
+- css/ – staff styles: see css/README.md
+- images/ – staff images: see images/README.md
+	- icons/ – icon assets: see images/icons/README.md
+- js/ – staff scripts: see js/README.md
